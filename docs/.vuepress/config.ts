@@ -3,7 +3,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 import { defineUserConfig } from "vuepress";
 
 export default defineUserConfig({
-  base: "/cc_blog/",
+  base: "/cc-blog/",
   bundler: viteBundler(),
   theme: defaultTheme(),
   lang: "zh-CN",
